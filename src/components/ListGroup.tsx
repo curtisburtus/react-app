@@ -1,7 +1,6 @@
 function ListGroup() {
   const items = ["New York", "Portland", "Tokyo", "London", "Paris"];
 
-  items.map((item) => <li>{item}</li>);
   return (
     <>
       <h1>List</h1>
